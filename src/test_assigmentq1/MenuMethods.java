@@ -250,7 +250,7 @@ public class MenuMethods {
         }
     }
     
-    //this method is for unit testing purposes 
+    //this method is for unit testing purposes but it is similair to the deleteStudent() method,that method adds text
     public void delStu(){
         studentID.remove(deleteIndex);
         studentName.remove(deleteIndex);
